@@ -1,3 +1,7 @@
+# Vibrator
+lib/hw/vibrator.default.so
+lib64/hw/vibrator.default.so
+
 # TEE
 lib/libtz_uree.so
 lib64/libtz_uree.so
