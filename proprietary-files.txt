@@ -1,11 +1,3 @@
-# Vibrator
-lib/hw/vibrator.default.so
-lib64/hw/vibrator.default.so
-
-# TEE
-lib/libtz_uree.so
-lib64/libtz_uree.so
-
 # Camera
 vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin
 vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin
@@ -14,3 +6,11 @@ vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi4
 vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-rn30-ri30.5-v24-tree7-2-wmd.bin
 vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-rp30-ri30.5-v24-tree7-2-wmd.bin
 vendor/pittpatt/models/recognition/face.face.y0-y0-71-N-tree_7-wmd.bin
+
+# TEE
+lib/libtz_uree.so
+lib64/libtz_uree.so
+
+# Vibrator
+lib/hw/vibrator.default.so
+lib64/hw/vibrator.default.so
