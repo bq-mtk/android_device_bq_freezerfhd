@@ -44,6 +44,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-bq
 # Set product device & name
 PRODUCT_BUILD_PROP_OVERRIDES += \
    PRODUCT_NAME=freezerfhd \
-   PRIVATE_BUILD_DESC="full_bq_aquaris_m10_FHD-user 6.0 MRA58K 1516959575 release-keys"
+   PRIVATE_BUILD_DESC="ryu-user 8.0.0 OPR1.170623.032 4397478 release-keys"
 
-BUILD_FINGERPRINT=bq/Aquaris_M10_FHD/Aquaris_M10_FHD:6.0/MRA58K/1516959575:user/release-keys
+BUILD_FINGERPRINT=google/ryu/dragon:8.0.0/OPR1.170623.032/4397478:user/release-keys
